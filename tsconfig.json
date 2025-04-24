@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "jsx": "react-jsx",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "outDir": "dist",
+    "declaration": true,
+    "lib": ["dom", "esnext"]         // ✅ this is what was missing
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
