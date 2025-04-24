@@ -1,6 +1,6 @@
 {
   "name": "user-auth-pkg",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "private": false,
@@ -37,5 +37,20 @@
     "axios": "^1.8.4",
     "pkg-use-react-app": "file:.yalc/pkg-use-react-app",
     "react-google-recaptcha": "^3.1.0"
-  }
+  },
+  "keywords": [
+    "react",
+    "login-form",
+    "react-hook-form",
+    "yup",
+    "material-ui",
+    "authentication",
+    "captcha",
+    "file-upload",
+    "reCAPTCHA",
+    "customizable",
+    "form-validation",
+    "react-component",
+    "user-authentication"
+  ]
 }
