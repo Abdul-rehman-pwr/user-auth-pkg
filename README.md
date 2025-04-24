@@ -1,3 +1,5 @@
+# Under Development
+
 # 🧾 LoginForm Component
 
 A **highly customizable and reusable** login form component built with **React Hook Form**, **Yup**, and **Material UI**, supporting image uploads, file inputs, CAPTCHA validation, and flexible UI overrides.
@@ -20,6 +22,6 @@ A **highly customizable and reusable** login form component built with **React H
 ## 🚀 Installation
 
 ```bash
-npm install pkg-use-react-app
+npm install user-auth-pkg
 npm install react react-dom react-hook-form yup axios react-google-recaptcha
 ```
