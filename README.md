@@ -19,6 +19,12 @@ A **highly customizable** and **reusable login form component** built with **Rea
 
 ---
 
+## 📂 GitHub Repository
+
+Check out the source code and contribute to the project on [GitHub](https://github.com/Abdul-rehman-pwr/user-auth-pkg.git).
+
+---
+
 ## 🚀 Installation | Install LoginForm React
 
 To install the package and required dependencies, run the following commands:

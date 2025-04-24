@@ -1,6 +1,6 @@
 {
   "name": "user-auth-pkg",
-  "version": "1.4.1",
+  "version": "1.4.4",
   "main": "dist/index.js",
   "module": "dist/index.js",
   "private": false,
